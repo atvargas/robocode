@@ -1,4 +1,4 @@
-package AV;
+package atvargas_y;
 import java.awt.*;
 import robocode.*;
 import java.awt.Color;
@@ -142,8 +142,3 @@ public class DeathStroke extends Robot {
   }
   
 }
-
-
-
- 
- 
